@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Game Center</string>
+    <string name="action_settings">action_settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="title_activity_morpion">Morpion</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

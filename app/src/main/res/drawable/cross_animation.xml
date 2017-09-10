@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <animation-list android:id="@+id/cross_animation"
+    android:oneshot="true"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item android:drawable="@drawable/cross33" android:duration="50" />
+        <item android:drawable="@drawable/cross32" android:duration="50" />
+        <item android:drawable="@drawable/cross31" android:duration="50" />
+        <item android:drawable="@drawable/cross30" android:duration="50" />
+        <item android:drawable="@drawable/cross29" android:duration="50" />
+        <item android:drawable="@drawable/cross28" android:duration="50" />
+        <item android:drawable="@drawable/cross27" android:duration="50" />
+        <item android:drawable="@drawable/cross26" android:duration="50" />
+        <item android:drawable="@drawable/cross25" android:duration="50" />
+        <item android:drawable="@drawable/cross24" android:duration="50" />
+        <item android:drawable="@drawable/cross23" android:duration="50" />
+        <item android:drawable="@drawable/cross22" android:duration="50" />
+        <item android:drawable="@drawable/cross21" android:duration="50" />
+        <item android:drawable="@drawable/cross20" android:duration="50" />
+        <item android:drawable="@drawable/cross19" android:duration="50" />
+        <item android:drawable="@drawable/cross18" android:duration="50" />
+        <item android:drawable="@drawable/cross17" android:duration="50" />
+        <item android:drawable="@drawable/cross16" android:duration="50" />
+        <item android:drawable="@drawable/cross15" android:duration="50" />
+        <item android:drawable="@drawable/cross14" android:duration="50" />
+        <item android:drawable="@drawable/cross13" android:duration="50" />
+        <item android:drawable="@drawable/cross12" android:duration="50" />
+        <item android:drawable="@drawable/cross11" android:duration="50" />
+        <item android:drawable="@drawable/cross10" android:duration="50" />
+        <item android:drawable="@drawable/cross9" android:duration="50" />
+        <item android:drawable="@drawable/cross8" android:duration="50" />
+        <item android:drawable="@drawable/cross7" android:duration="50" />
+        <item android:drawable="@drawable/cross6" android:duration="50" />
+        <item android:drawable="@drawable/cross5" android:duration="50" />
+        <item android:drawable="@drawable/cross4" android:duration="50" />
+        <item android:drawable="@drawable/cross3" android:duration="50" />
+        <item android:drawable="@drawable/cross2" android:duration="50" />
+        <item android:drawable="@drawable/cross1" android:duration="50" />
+        <item android:drawable="@drawable/cross" android:duration="50000" />
+    </animation-list>
